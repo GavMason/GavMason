@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
-<h3 align="center">SWE Intern at MITRE | CS at UCF</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
